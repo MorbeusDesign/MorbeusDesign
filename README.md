@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/linkedin.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/Morbeus.Design"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/morbeusdesign/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/instagram.svg" alt="MorbeusDesign" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/buymeacoffee.svg" /></a>
+<a href="https://www.pinterest.de/MorbeusDesignCom/"><img align="center" alt="MorbeusDesignCom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/pinterest.svg" /></a>
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 <a href="https://twitter.com/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
