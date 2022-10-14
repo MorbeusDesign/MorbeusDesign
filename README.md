@@ -29,7 +29,7 @@
 - 📚 I am currently reading: **Thinking, Fast and Slow** by daniel Kahneman, **Zero to One** by Peter Thiel
 
 - 💬 My interests are: 
-  - italian Food
+  - Italian Food
   - Teaching Programming languages
   - Writing Blog Articles about Programming Skills
   - Reading Books about Existentialism (Sartre, Camus, Heidegger...)
