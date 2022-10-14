@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
 
-### <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" width="200" /> 
+### <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="200" /> 
 ## About Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MorbeusDesign-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morbeusdesign)](https://www.linkedin.com/in/morbeusdesign) [![Github Followers](https://img.shields.io/github/followers/morbeusdesign?label=morbeus&style=social)](https://github.com/MorbeusDesign?tab=followers) [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCQBu9yxZdh5jIbohCFUsauw?label=MorbeusDesign&style=social)](https://www.youtube.com/channel/UCQBu9yxZdh5jIbohCFUsauw)
