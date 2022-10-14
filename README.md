@@ -30,10 +30,11 @@
 
 - 💬 My interests are: 
   - italian Food
-  - Playing Chess
+  - Teaching Programming languages
   - Writing Blog Articles about Programming Skills
   - Reading Books about Existentialism (Sartre, Camus, Heidegger...)
   - Reading Books about Mindfulness
+  - Playing Chess
   
 - 📺 My Favorite Movies: 
   - Interstellar
