@@ -8,15 +8,17 @@
 
 <p >
 
-<a href="https://linkedin.com/in/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/linkedin.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/Morbeus.Design"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/morbeusdesign/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/instagram.svg" alt="MorbeusDesign" height="40" width="30" /></a>&nbsp;
-<a href="https://www.pinterest.de/MorbeusDesignCom/"><img align="center" alt="MorbeusDesignCom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/pinterest.svg" /></a>
-<a href="https://twitter.com/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
-<a href="https://codepen.io/MorbeusDesign"><img align="center" alt="MorbeusDesign" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/codepen.svg" /></a>
-<a href="https://www.behance.net/morbeus"><img align="center" alt="Behance" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/behance.svg" /></a>      
-<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/buymeacoffee.svg" /></a>      
+<a href="https://linkedin.com/in/morbeusdesign"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/linkedin.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/Morbeus.Design"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/morbeusdesign/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/instagram.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.pinterest.de/MorbeusDesignCom/"><img align="left" alt="MorbeusDesignCom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/pinterest.svg" /></a>&nbsp;
+<a href="https://twitter.com/morbeusdesign"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://codepen.io/MorbeusDesign"><img align="left" alt="MorbeusDesign" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/codepen.svg" /></a>&nbsp;
+<a href="https://www.behance.net/morbeus"><img align="left" alt="Behance" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/behance.svg" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="left" alt="Buy me a Coffee" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/buymeacoffee.svg" /></a>&nbsp;
+      
 </p>
+<br>
 
 ## About Me:
 
@@ -24,46 +26,48 @@
 
 - ✒️ I regulary write technical articles for [Quora](https://lospaziodimorbeus.quora.com/) and [MyBlog](https://www.morbeusdesign.com/blog)
 
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
+- 📚 I am currently reading: **Thinking, Fast and Slow** by daniel Kahneman, **Zero to One** by Peter Thiel
 
-- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
-17
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-18
-- 👯 We can connect to play some games of Chess ♟
-19
-- ⚡ Fun fact: Je connais un peu le français
-20
-- 🧑‍💻 Tech I work on :
-21
-22
+- 💬 My interests are: 
+  - italian Food
+  - Playing Chess
+  - Writing Blog Articles about Programming Skills
+  - Reading Books about Existentialism (Sartre, Camus, Heidegger...)
+  - Reading Books about Mindfulness
+  
+- 📺 My Favorite Movies: 
+  - Interstellar
+  - Inception
+  - The Matrix
+  - The Lord of the Rings/The Hobbit/Rings Of Power(serie)
+
+
+
+
 <p align="center">
-23
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-24
+
+      
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-25
+
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-26
+
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-27
+
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-28
+
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-29
+
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-30
+
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-31
+
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-32
+
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-33
+
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-34
+
 </p>
-
-
 
 
 
@@ -75,3 +79,13 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
+
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [How to Choose The Right Database for Your Application](https://www.morbeusdesign.com/Blog/how-to-choose-the-right-database-for-your-application)
+- [SOLID Principles in Java](https://www.morbeusdesign.com/Blog/solid-principles-in-java)
+- [Introduction to Asynchronous Processing and Message Queues](https://www.morbeusdesign.com/Blog/introduction-to-)
+- [Javascript Clean Code Tips &amp; Good Practices](https://www.morbeusdesign.com/Blog/LanguageXXXXXXX-tips-and-good-practices)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [... view more](https://www.morbeusdesign.com/Blog)
