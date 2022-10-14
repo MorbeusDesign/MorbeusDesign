@@ -43,7 +43,7 @@
   - The Lord of the Rings/The Hobbit/Rings Of Power(serie)
 
 
-##  Here is an excerpt of the software tools and programming languages i used ##
+##  Here's a List of some programming languages, Script, Tools & Software that I use for Work most of the time: ##
 <br>
 
 <p>
@@ -59,7 +59,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55" />&nbsp;
 </p>
 
-***
+
 
 
 
