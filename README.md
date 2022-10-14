@@ -7,15 +7,19 @@
 <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
 
 <p >
-<a href="https://twitter.com/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+
+<a href="https://linkedin.com/in/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/Morbeus.Design"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/apoorv#4040"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://twitter.com/morbeusdesign"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 <a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
+
 ## About Me:
+
 - 🖥️ I am an independent Freelancer Web- & PHP Developer based in Germany (Cologne) focused on creating great Web Experiences... 
 
 - ✒️ I regulary write technical articles for [Quora](https://lospaziodimorbeus.quora.com/) and [MyBlog](https://www.morbeusdesign.com/blog)
