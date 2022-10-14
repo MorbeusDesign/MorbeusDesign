@@ -3,7 +3,7 @@
 <h1>Welcome to my humble abode in the Digital Jungle..</h1>
 
 <img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
-<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" align="right" width="300"/>
+<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" align="right" width="300" style="margin-right: 300px"   />
 <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
 <p >
 <a href="https://twitter.com/morbeusdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
