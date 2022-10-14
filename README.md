@@ -5,15 +5,23 @@
 <img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
 
 ### <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
+<p >
+<a href="https://twitter.com/morbeusdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/morbeusdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+
+</p>
 ## About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
-13
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-14
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-15
+- 🖥️ I am an independent Freelancer Web- & PHP Developer based in Germany (Cologne) focused on creating great Web Experiences... 
+
+- ✒️ I regulary write technical articles for [Quora](https://lospaziodimorbeus.quora.com/) and [MyBlog](https://www.morbeusdesign.com/blog)
+
 - 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
-16
+
 - 📖 I am currently reading **Sapiens** by Yuval Noah Harari
 17
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
