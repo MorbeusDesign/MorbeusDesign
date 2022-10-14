@@ -3,8 +3,9 @@
 <h1>Welcome to my humble abode in the Digital Jungle..</h1>
 
 <img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
-<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" align="right" width="300" style="margin-right: 300px"   />
+<a href="https://www.buymeacoffee.com/Morbeus" target="blank"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="350" /></a>&nbsp;
 <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
+
 <p >
 <a href="https://twitter.com/morbeusdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/morbeusdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
@@ -70,4 +71,3 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif"/>
