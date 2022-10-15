@@ -63,7 +63,7 @@
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="45" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" height="45" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="45" height="55" />&nbsp;
