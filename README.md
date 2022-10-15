@@ -43,7 +43,7 @@
   - The Lord of the Rings/The Hobbit/Rings Of Power(serie)
 
 
-##  Here's a List of some programming languages, Script, Tools & Software that I use for Work most of the time: ##
+##  Here's a List of some programming languages, Scripts, Software & Tools that I use for Work most of the Time: ##
 <br>
 
 <p>
@@ -71,8 +71,6 @@
 <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="45" height="45" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" width="45" height="45" />&nbsp;
-
 
 </p>
 
