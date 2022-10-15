@@ -71,6 +71,8 @@
 <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="55" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="45" height="45" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" width="45" height="45" />&nbsp;
+
 
 </p>
 
