@@ -47,16 +47,25 @@
 <br>
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" /> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="55" height="55" />&nbsp;
+<img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="55" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="55" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="55" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="55" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="60" height="50" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="55" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="45" height="55" />&nbsp;
 </p>
 
 
