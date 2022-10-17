@@ -79,7 +79,8 @@
 [![Github Followers](https://img.shields.io/github/followers/morbeusdesign?label=morbeus&style=social)](https://github.com/MorbeusDesign?tab=followers)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCQBu9yxZdh5jIbohCFUsauw?label=MorbeusDesign&style=social)](https://www.youtube.com/channel/UCQBu9yxZdh5jIbohCFUsauw)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/morbeusdesign/morbeusdesign) <p> <img src="https://komarev.com/ghpvc/?username=morbeusdesign" /> </p> 
+![GitHub last commit](https://img.shields.io/github/last-commit/morbeusdesign/morbeusdesign) 
+
 
 ## Most liked quotes among Developers
 
