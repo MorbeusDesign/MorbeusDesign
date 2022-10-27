@@ -79,7 +79,7 @@
 [![Github Followers](https://img.shields.io/github/followers/morbeusdesign?label=morbeus&style=social)](https://github.com/MorbeusDesign?tab=followers)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCQBu9yxZdh5jIbohCFUsauw?label=MorbeusDesign&style=social)](https://www.youtube.com/channel/UCQBu9yxZdh5jIbohCFUsauw)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/morbeusdesign) 
+![master](https://img.shields.io/github/last-commit/MorbeusDesign/MorbeusDesign/main)
 
 
 ## Most liked quotes among Developers
