@@ -80,7 +80,7 @@
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCQBu9yxZdh5jIbohCFUsauw?label=MorbeusDesign&style=social)](https://www.youtube.com/channel/UCQBu9yxZdh5jIbohCFUsauw)
 
 ![master](https://img.shields.io/github/last-commit/MorbeusDesign/MorbeusDesign/main)
-
+![master](https://img.shields.io/freecodecamp/points/Morbeus)
 
 ## Most liked quotes among Developers
 
