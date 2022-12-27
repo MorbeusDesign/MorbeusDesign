@@ -103,4 +103,4 @@
 - [Javascript Clean Code Tips &amp; Good Practices](https://www.morbeusdesign.com/Blog/LanguageXXXXXXX-tips-and-good-practices)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://www.morbeusdesign.com/Blog)
+▶ [... view more](https://themorbeusgarden.gatsbyjs.io/topics/)
