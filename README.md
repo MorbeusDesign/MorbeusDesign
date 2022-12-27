@@ -24,7 +24,7 @@
 
 - 🖥️ I am an independent Freelancer Web- & PHP Developer based in Germany (Cologne) focused on creating great Web Experiences... 
 
-- ✒️ I regulary write technical articles for [Quora](https://themorbeuszone.quora.com/) and [MyBlog](https://www.morbeusdesign.com/blog)
+- ✒️ I regulary write technical articles for [Quora](https://themorbeuszone.quora.com/) & [Medium](https://medium.com/@themorbeus)
 
 - 📚 I am currently reading: **Thinking, Fast and Slow** by daniel Kahneman, **Zero to One** by Peter Thiel
 
