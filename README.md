@@ -9,13 +9,13 @@
 <p >
 
 <a href="https://linkedin.com/in/morbeusdesign"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/linkedin.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/Morbeus.Design"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/morbeusdesign"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/instagram.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/TheMorbeusZone"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/facebook.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/themorbeuszone"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/instagram.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
 <a href="https://www.pinterest.de/MorbeusDesignCom/"><img align="left" alt="MorbeusDesignCom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/pinterest.svg" /></a>&nbsp;
 <a href="https://twitter.com/morbeusdesign"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/twitter.svg" alt="MorbeusDesign" height="30" width="30" /></a>&nbsp;
 <a href="https://codepen.io/MorbeusDesign"><img align="left" alt="MorbeusDesign" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/codepen.svg" /></a>&nbsp;
-<a href="https://www.behance.net/morbeus"><img align="left" alt="Behance" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/behance.svg" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/morbeusdesign"><img align="left" alt="Buy me a Coffee" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/buymeacoffee.svg" /></a>&nbsp;
+<a href="https://www.freecodecamp.org/Morbeus"><img align="left" alt="FreeCodeCamp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/freecodecamp.svg" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/Morbeus"><img align="left" alt="Buy me a Coffee" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/buymeacoffee.svg" /></a>&nbsp;
       
 </p>
 <br>
